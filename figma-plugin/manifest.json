@@ -1,0 +1,17 @@
+{
+  "name": "DesignAI Pro - Live Chat Integration",
+  "id": "designai-pro-chat",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://api.openai.com",
+      "http://localhost:3001",
+      "https://your-domain.com"
+    ]
+  }
+}
